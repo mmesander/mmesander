@@ -11,7 +11,7 @@ Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/
 [![My Skills](https://skillicons.dev/icons?i=js,figma,react)](https://skillicons.dev)
 
 ### In het vooruitzicht:
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
  
 
 Lijkt het u leuk om kennis te maken? Schroom dan niet en stuur mij gerust een berichtje via [LinkedIn](https://www.linkedin.com/in/mark-mesander/).
