@@ -8,7 +8,7 @@ Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,react)](https://skillicons.dev)
 
 ### Op dit moment aan het leren:
-Op dit moment ben ik bezig met mijn eindopdracht (https://github.com/mmesander/eindopdracht-frontend-the-movie-app)
+Op dit moment ben ik bezig met mijn [eindopdracht](https://github.com/mmesander/eindopdracht-frontend-the-movie-app)
 
 ### In het vooruitzicht:
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
