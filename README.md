@@ -6,9 +6,10 @@ Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/
 
 ### Afgeronde onderdelen:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,react)](https://skillicons.dev)
+Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/eindopdracht-frontend-the-movie-app) gemaakt!
 
 ### Op dit moment aan het leren:
-Op dit moment ben ik bezig met mijn [eindopdracht](https://github.com/mmesander/eindopdracht-frontend-the-movie-app) voor front end!
+Na de zomer ga ik weer verder!
 
 ### In het vooruitzicht:
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
