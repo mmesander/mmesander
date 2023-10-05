@@ -13,7 +13,7 @@ Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/eind
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ### In het vooruitzicht:
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,postman,postgres,python)](https://skillicons.dev)
  
 
 Lijkt het u leuk om kennis te maken? Schroom dan niet en stuur mij gerust een berichtje via [LinkedIn](https://www.linkedin.com/in/mark-mesander/).
