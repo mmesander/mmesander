@@ -6,7 +6,7 @@ Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/
 
 ## Afgeronde onderdelen:
 ### FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,figma,react)](https://skillicons.dev)
 
 Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/eindopdracht-frontend-the-movie-app) gemaakt welke ik heb afgerond met een 9.
 
