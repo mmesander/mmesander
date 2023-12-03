@@ -1,6 +1,6 @@
 # Welkom! Even voorstellen:
 
-Ik ben Mark Mesander, een student aan de [Novi Hogeschool](https://www.novi.nl/){:target="_blank"} in Utrecht.
+Ik ben Mark Mesander, een student aan de [Novi Hogeschool](https://www.novi.nl/){:target="_blank" rel="noopener"} in Utrecht.
 
 Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) leer ik in 12 maanden tijd eerst front end development en daarna back end development. Hieronder vind u een actueel overzicht van mijn leertraject:
 
