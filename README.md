@@ -14,7 +14,7 @@ Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/eind
 [![My Skills](https://skillicons.dev/icons?i=idea,github,java,maven,spring,postman,postgres)](https://skillicons.dev)
 
 ## Op dit moment aan het leren:
-Op dit moment ben ik bezig met mijn [eindopdracht](https://github.com/mmesander/revitalized-webshop)
+Op dit moment ben ik bezig met mijn [eindopdracht](https://github.com/mmesander/revitalized-webshop) voor de backend leerlijn.
 
 ## In het vooruitzicht:
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
