@@ -11,10 +11,10 @@ Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/
 Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/eindopdracht-frontend-the-movie-app) gemaakt welke ik heb afgerond met een 9.
 
 ### BackEnd
-[![My Skills](https://skillicons.dev/icons?i=idea,github,java,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,github,java,maven,spring,postman,postgres)](https://skillicons.dev)
 
 ## Op dit moment aan het leren:
-[![My Skills](https://skillicons.dev/icons?i=spring,postman,postgres)](https://skillicons.dev)
+Op dit moment ben ik bezig met mijn [eindopdracht](https://github.com/mmesander/revitalized-webshop)
 
 ## In het vooruitzicht:
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
