@@ -13,11 +13,6 @@ Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/eind
 ### BackEnd
 [![My Skills](https://skillicons.dev/icons?i=idea,github,java,maven,spring,postman,postgres)](https://skillicons.dev)
 
-## Op dit moment aan het leren:
-Op dit moment ben ik bezig met mijn [eindopdracht](https://github.com/mmesander/revitalized-webshop) voor de backend leerlijn.
-
-## In het vooruitzicht:
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
- 
+Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/revitalized-webshop) gemaakt welke ik heb afgerond met een 9.2.
 
 Lijkt het u leuk om kennis te maken? Schroom dan niet en stuur mij gerust een berichtje via [LinkedIn](https://www.linkedin.com/in/mark-mesander/).
