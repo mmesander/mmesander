@@ -1,10 +1,11 @@
 # Welkom! Even voorstellen:
 
-Ik ben Mark Mesander, een student aan de [Novi Hogeschool](https://www.novi.nl/) in Utrecht.
+Ik ben Mark Mesander een junior software developer uit Haarlem.
 
-Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) leer ik in 12 maanden tijd eerst front end development en daarna back end development. Hieronder vind u een actueel overzicht van mijn leertraject:
 
-## Afgeronde onderdelen:
+## Afgeronde Opleidingen
+Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) heb ik eerst front end development geleerd en daarna backend. Hieronder vind u een overzicht van mijn leertraject:
+
 ### FrontEnd
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,figma,react)](https://skillicons.dev)
 
