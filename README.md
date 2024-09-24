@@ -1,6 +1,6 @@
 # Welkom! Even voorstellen:
 
-Ik ben Mark Mesander een junior software developer uit Haarlem.
+Ik ben Mark Mesander een vrolijke en zeer gemotiveerde junior software developer uit Haarlem.
 
 
 ## Afgeronde Opleidingen
