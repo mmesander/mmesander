@@ -4,7 +4,7 @@ Ik ben Mark Mesander een junior software developer uit Haarlem.
 
 
 ## Afgeronde Opleidingen
-Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) heb ik eerst front end development geleerd en daarna backend. Hieronder vind u een overzicht van mijn leertraject:
+Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) aan de [Novi Hogeschool](https://www.novi.nl/) in Utrecht heb ik eerst front end development geleerd en daarna backend development. Hieronder vind u een overzicht van mijn leertraject:
 
 ### FrontEnd
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,figma,react)](https://skillicons.dev)
