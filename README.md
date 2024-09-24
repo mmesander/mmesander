@@ -16,4 +16,5 @@ Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/eind
 
 Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/revitalized-webshop) gemaakt welke ik heb afgerond met een 9.2.
 
+## Contact
 Lijkt het u leuk om kennis te maken? Schroom dan niet en stuur mij gerust een berichtje via [LinkedIn](https://www.linkedin.com/in/mark-mesander/).
