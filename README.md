@@ -7,7 +7,7 @@ Ik ben Mark Mesander, een vrolijke en zeer gemotiveerde junior software develope
 Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) aan de [Novi Hogeschool](https://www.novi.nl/) in Utrecht heb ik eerst front end development geleerd en daarna backend development. Hieronder vind u een overzicht van mijn leertraject:
 
 ### FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,figma,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm,html,css,js,nodejs,figma,react)](https://skillicons.dev)
 
 Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/eindopdracht-frontend-the-movie-app) gemaakt welke ik heb afgerond met een 9.
 
