@@ -1,20 +1,20 @@
 # Welkom! Even voorstellen:
 
-Ik ben Mark Mesander, een vrolijke en zeer gemotiveerde software developer uit Apeldoorn.
+Software Engineer with a background in entrepreneurship, focused on backend development and business automation. I’m an analytical thinker who enjoys untangling complex problems and turning them into practical solutions. Running my own businesses taught me to look beyond the code: a solution only works if it works for the people using it. On my own time I love going for long walks with my wife and our dog, making music in Ableton, and spending way too many hours at the barbecue.
 
 
-## Afgeronde Opleidingen
-Op de opleiding [Full Stack Developer](https://www.novi.nl/full-stack-developer/) aan de [Novi Hogeschool](https://www.novi.nl/) in Utrecht in 2023 heb ik eerst front end development geleerd en daarna backend development. Hieronder vind u een overzicht van mijn leertraject:
+### Full Stack Developer – [NOVI University of Applied Sciences](https://www.novi.nl/)
+In 2023 I completed the [Full Stack Developer](https://www.novi.nl/full-stack-developer/) program at NOVI in Utrecht. The program started with front-end development and then moved on to back-end development. Below is an overview of the technologies I worked with.
 
-### FrontEnd
+#### Front-end
 [![My Skills](https://skillicons.dev/icons?i=webstorm,html,css,js,nodejs,figma,react)](https://skillicons.dev)
 
-Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/eindopdracht-frontend-the-movie-app) gemaakt welke ik heb afgerond met een 9.
+Final project: [The Movie App](https://github.com/mmesander/eindopdracht-frontend-the-movie-app), graded **9/10**.
 
-### BackEnd
+#### Back-end
 [![My Skills](https://skillicons.dev/icons?i=idea,github,java,maven,spring,postman,postgres)](https://skillicons.dev)
 
-Voor deze onderdelen heb ik een [eindopdracht](https://github.com/mmesander/revitalized-webshop) gemaakt welke ik heb afgerond met een 9.2.
+Final project: [Revitalized Webshop](https://github.com/mmesander/revitalized-webshop), graded **9.2/10**.
 
 ## Contact
-Lijkt het u leuk om kennis te maken? Schroom dan niet en stuur mij gerust een berichtje via [LinkedIn](https://www.linkedin.com/in/mark-mesander/).
+Would you like to connect? Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/mark-mesander/).
