@@ -1,4 +1,4 @@
-# Welkom! Even voorstellen:
+# Hi there!
 
 Software Engineer with a background in entrepreneurship, focused on backend development and business automation. I’m an analytical thinker who enjoys untangling complex problems and turning them into practical solutions. Running my own businesses taught me to look beyond the code: a solution only works if it works for the people using it. On my own time I love going for long walks with my wife and our dog, making music in Ableton, and spending way too many hours at the barbecue.
 
